@@ -1,0 +1,53 @@
+<html>
+
+<body style="font-family: sans-serif; margin: 0; background-color:#f0e4f5">
+    <header style="background-color: #d79aed;">
+        <b><p style="font-size:50px; color:#ffffff; text-align:center; margin: 0">
+            Емілія Плех
+        </p></b>
+        <h2 style="color:#f5fff8; text-align:center">
+            | Учениця Веб-програмування |
+        </h2>
+    </header>
+    <main style="padding: 20px;  max-width: 800px; margin: 0 auto;">
+        <div
+            style=" background: white;padding: 20px;margin-bottom: 20px;border-radius: 8px;box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+            <h2> <b style="color: #4f1c5e">Про мене: </b></h2>
+            <p style="font-size:20px;"> Привіт! Мене звати Емілія. Я займаюся веб-розробкою. Люблю створювати нові
+                цікаві сайти.</p>
+        </div>
+        <div
+            style=" background: white;padding: 20px;margin-bottom: 20px;border-radius: 8px;box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+            <h2> <b style="color: #4f1c5e"> прогресс: </b></h2>
+            <p style="font-size:20px;"> я вчусь вже 7 уроків, але вже є прогресс. і все завдяки моєму найкращому
+                вчителю: <u style=" color: #f0a53c"><b><i>Олександру Пилипеленку</i> </b> </u>. я стала краще
+                розбиратися в прогромувані та в коді, можу зробити СВІЙ сайт та читати коди. завдяки урокам та
+                поступовим поясненням я стала краще, дякую :)
+            </p>
+        </div>
+        <div
+            style=" background: white;padding: 20px;margin-bottom: 20px;border-radius: 8px;box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+            <h2> про школу <b style="color: #4f1c5e"> | logikaschool | :</b></h2>
+            <p style="font-size:20px;"> Найбільша в Україні школа програмування та англійської мови для дітей 7-17 років
+            </p>
+            <p style="font-size:20px;"> <b style="color: #4f1c5e"> В школі «Logika»: </b></p>
+            <p style="font-size:20px;"> <i> Дитина закохається
+в точні науки і по-новому подивиться на шкільні предмети</i> <img src="https://optim.tildacdn.one/tild6539-6233-4736-b737-313832656336/-/resize/258x/-/format/webp/Group_1513-min.png.webp" height="50px"/>
+            </p>
+            <p style="font-size:20px;"> <i> Знайде себе в одному
+із перспективних
+IT-напрямків - від геймдеву до машинного навчання.  </i> </p>
+<p style="font-size:20px;"> <i> Збере портфоліо розробника
+із власних ігор, сайтів
+та додатків. </i></p>
+        </div>
+    </main>
+    <footer style="background-color: #d79aed;">
+        <p style="font-size:20px; color:#ffffff; text-align:center; margin: 0"> школа прогромування - <a
+                href="https://learn.logikaschool.com/"> <u style="color:#4f1c5e">logikaschool </u></a> </p>
+                <p style="font-size:20px; color:#ffffff; text-align:center; margin: 0"> можно звернутися до цього номера - <u style="color: #4f1c5e "> + 38 (093) 170-74-40 </u> </p>
+                <p style="font-size:20px; color:#ffffff; text-align:center; margin: 0"> більше інформації про школу на цьому сайті - <a href="https://logikaschool.com/"/> <u style="color: #4f1c5e "> https://logikaschool.com/ </u> </a> </p>
+    </footer>
+</body>
+
+</html>
